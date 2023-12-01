@@ -1,0 +1,5 @@
+setup.py
+paquete_segunda_preentrega_Pe_alba.egg-info/PKG-INFO
+paquete_segunda_preentrega_Pe_alba.egg-info/SOURCES.txt
+paquete_segunda_preentrega_Pe_alba.egg-info/dependency_links.txt
+paquete_segunda_preentrega_Pe_alba.egg-info/top_level.txt
